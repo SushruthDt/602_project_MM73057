@@ -36,6 +36,9 @@ tBodyGyroJerkMean
 3. High peaks of gaussian curve is of Stationary activities of Body gravity acceleration values
 4. Low Peaks are of Non-Stationary Actvity of Body gravity acceleration values.
 
+## Modeling Accuracy
+![Picture3](https://user-images.githubusercontent.com/45795026/146113656-f22b47a0-bd4e-4cf6-8a1c-a20a466eb156.png)
+
 ## Conclusion 
 
 ## Reference
