@@ -28,7 +28,18 @@ tBodyGyroMean
 tBodyGyroJerkMean
 
 ## Methodology 
-![Picture1](https://user-images.githubusercontent.com/45795026/146113235-a0a825b8-8d11-4a2a-b866-05d3e983911c.png)
+![Picture2](https://user-images.githubusercontent.com/45795026/146113336-cc7fa5ca-03ed-4e80-9d73-b2a70d269064.png)
+
+## Exploratory Data Analysis
+1. The Left gaussian peaks shows stationary Activities , where the Body accelerometer value is more; Vice Versa.
+2. The Right Gaussian peaks shows Non-Statinary Activities, here the Body accelerometer value is less and Vice Versa.
+3. High peaks of gaussian curve is of Stationary activities of Body gravity acceleration values
+4. Low Peaks are of Non-Stationary Actvity of Body gravity acceleration values.
+
+## Conclusion 
+
+## Reference
+
 
 
 
