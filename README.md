@@ -39,9 +39,20 @@ tBodyGyroJerkMean
 ## Modeling Accuracy
 ![Picture3](https://user-images.githubusercontent.com/45795026/146113656-f22b47a0-bd4e-4cf6-8a1c-a20a466eb156.png)
 
-## Conclusion 
+## Future Work
+1. Use of grid search have improved the score by few pointers.
+2. Since there are 500+ columns models are bit overfit, as the AUC score is around 97 to 99 . I could adopt below technique to prevent overfitting
+      1. Cross validation techniques – k folds
+      2. Ensemble Techniques - Bagging, Boosting
 
 ## Reference
+1. Human-Activity-Recognition-with-Smartphones/Human_Activity_Recogn_EDA.ipynb at master · sushantdhumak/Human-Activity-Recognition-with-Smartphones (github.com)
+2. https://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html
+3. Lecture Slides 
+4. https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/nbextensions/codefolding/readme.html
+5. https://pandas.pydata.org/pandas-docs/version/0.25.0/reference/api/pandas.DataFrame.to_csv.html
+6. https://towardsdatascience.com/handling-overfitting-in-deep-learning-models-c760ee047c6e
+
 
 
 
